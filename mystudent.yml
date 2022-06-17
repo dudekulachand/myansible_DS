@@ -1,0 +1,24 @@
+---
+- student:
+  - name: munna
+    phone: 7382797007
+    address: 
+      doorno: 71
+      streetno: 86
+      pincode:  523334
+
+
+  - name: chand
+    phone: 7382797007
+    address: 
+      doorno: 72
+      streetno: 87
+      pincode: 5233244
+
+
+  - name: nayab
+    phone: 7382797007
+    address: 
+      doorno: 73
+      streetno: 88
+      pincode: 523344
